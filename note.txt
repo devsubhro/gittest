@@ -4,7 +4,6 @@
 4) Commit with message 'ver 1'
 5) Push to remote called origin to the branch master.
 6) And now we are ready for the test.
-6) And now we are ready for the test.
 6.1) we create a new branch called feature1 in github
 6.2) we then fetch from github with git fetch
 6.3) doing git branch -a gives
