@@ -3,13 +3,16 @@
 3) Add it to staging area.
 4) Commit with message 'ver 1'
 5) Push to remote called origin to the branch master.
-6) we create a new branch called feature1 in github
-7) we then fetch from github with git fetch
-8) doing git branch -a gives
+6) And now we are ready for the test.
+6) And now we are ready for the test.
+6.1) we create a new branch called feature1 in github
+6.2) we then fetch from github with git fetch
+6.3) doing git branch -a gives
 * master
   remotes/origin/HEAD -> origin/master
   remotes/origin/feature1
   remotes/origin/master
-9) now switch to feature1 branch in local with git checkout feature1
-10) We added new instructions which is feature 1
-11) We commit and push to feature1 branch with git push origin feature1
+6.4) now switch to feature1 branch in local with git checkout feature1
+6.5) We added new instructions which is feature 1
+6.6) We commit and push to feature1 branch with git push origin feature1
+7) While working on feature1, we change master. We switch to master with git checkout master and then add this line.
