@@ -25,3 +25,4 @@ We manually edit the file and merge the content, then add to staging area and co
 We then switch to feature1 and manually fix the file there also
 Then we add it to staging area, commit and push
 Now again switch to master and merge
+9) Now that we have merged feature1, we can remove the branch with git branch -d feature1
