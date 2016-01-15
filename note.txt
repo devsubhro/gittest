@@ -1,0 +1,5 @@
+1) Ensure that your local branch is master with git branch
+2) Create a new file note.txt in local branch master.
+3) Add it to staging area.
+4) Commit with message 'ver 1'
+5) Push to remote called origin to the branch master.
