@@ -15,3 +15,13 @@
 6.5) We added new instructions which is feature 1
 6.6) We commit and push to feature1 branch with git push origin feature1
 7) While working on feature1, we change master. We switch to master with git checkout master and then add this line.
+8) while working on feature1 we change the original code by switching to master
+now we need to merge with master so switch to master with git checkout master
+git merge feature1
+Auto-merging note.txt
+CONFLICT (content): Merge conflict in note.txt
+Automatic merge failed; fix conflicts and then commit the result.
+We manually edit the file and merge the content, then add to staging area and commit and pushed
+We then switch to feature1 and manually fix the file there also
+Then we add it to staging area, commit and push
+Now again switch to master and merge
