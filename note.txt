@@ -12,3 +12,4 @@
   remotes/origin/master
 9) now switch to feature1 branch in local with git checkout feature1
 10) We added new instructions which is feature 1
+11) We commit and push to feature1 branch with git push origin feature1
