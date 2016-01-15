@@ -3,3 +3,12 @@
 3) Add it to staging area.
 4) Commit with message 'ver 1'
 5) Push to remote called origin to the branch master.
+6) we create a new branch called feature1 in github
+7) we then fetch from github with git fetch
+8) doing git branch -a gives
+* master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/feature1
+  remotes/origin/master
+9) now switch to feature1 branch in local with git checkout feature1
+10) We added new instructions which is feature 1
